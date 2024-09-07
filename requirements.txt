@@ -1,0 +1,5 @@
+requests
+certifi
+termcolor
+fake-useragent
+pyfiglet
