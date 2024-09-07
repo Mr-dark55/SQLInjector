@@ -53,7 +53,7 @@ Results: Collects and saves detected vulnerabilities in a JSON file.
 
 For a detailed demonstration of how to use SQLInjector, watch the following video:
 
-[![SQLInjector Demo](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/ctIDmEiJ8eM?si=drRUTvSkwLJcrzpM))
+[![SQLInjector Demo](https://youtu.be/ctIDmEiJ8eM?si=drRUTvSkwLJcrzpM)]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/ctIDmEiJ8eM?si=drRUTvSkwLJcrzpM))
 
 *Click the image above to watch the video.*
 
