@@ -19,3 +19,10 @@
    cd SQLInjector
    pip install -r requirements.txt
    ```
+
+
+To use SQLInjector, run the script with the required arguments:
+   ```
+python SQLInjector.py -u <urls-file> [-o <output-file>] [-t <threads>] [-d <depth>] [--ignore-errors]
+```
+
