@@ -15,6 +15,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/SQLInjector.git
+   git clone https://github.com/Mr-dark55/SQLInjector.git
    cd SQLInjector
-
+   pip install -r requirements.txt
+   ```
