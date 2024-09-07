@@ -38,7 +38,7 @@ python SQLInjector.py -u <urls-file> [-o <output-file>] [-t <threads>] [-d <dept
 ## Example
 ```
 python SQLInjector.py -u urls.txt -o results.json -t 10 -d 2
-``
+```
 ## How It Works
 ```
 URL Parsing: The tool parses each URL and extracts query parameters.
@@ -46,3 +46,14 @@ Injection Testing: It injects common SQL patterns into the query parameters.
 Error Detection: Checks for SQL-related errors in the response to identify potential vulnerabilities.
 Results: Collects and saves detected vulnerabilities in a JSON file.
 ```
+
+
+
+## Video Tutorial
+
+For a detailed demonstration of how to use SQLInjector, watch the following video:
+
+[![SQLInjector Demo](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/ctIDmEiJ8eM?si=drRUTvSkwLJcrzpM))
+
+*Click the image above to watch the video.*
+
